@@ -1,6 +1,9 @@
 # Griffin-welcome
 A welcome tool for Griffin OS
 
+![welcome image](gw.png)
+![welcome image2](gw2.png)
+
 # Griffin OS Welcome Tool
 
 The **Griffin OS Welcome Tool** is a first-boot and system setup application for **Griffin OS**.  
