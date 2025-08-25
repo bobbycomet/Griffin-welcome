@@ -30,12 +30,12 @@ Designed for:
 
 ### 1. Add the Griffin OS Repository
 ```
-echo "deb [arch=amd64,i386 signed-by=/etc/apt/keyrings/griffin.gpg] https://bobbycomet.github.io/griffin-repo stable main" | sudo tee /etc/apt/sources.list.d/griffin.list
+echo "deb [arch=amd64,i386 signed-by=/etc/apt/keyrings/griffin.gpg] https://bobbycomet.github.io/Griffin-welcome stable main" | sudo tee /etc/apt/sources.list.d/griffin.list
 ```
 
 ```
 sudo mkdir -p /etc/apt/keyrings
-wget -O- https://bobbycomet.github.io/griffin-repo/griffin.gpg.key | sudo tee /etc/apt/keyrings/griffin.gpg
+wget -O- https://bobbycomet.github.io/Griffin-welcome/griffin.gpg.key | sudo tee /etc/apt/keyrings/griffin.gpg
 ```
 
 ```
