@@ -1,0 +1,17 @@
+Package: griffin-welcome
+Priority: optional
+Section: utils
+Maintainer: Bobby Comet griffin.OS.help@gmail.com
+Architecture: all
+Version: 1.0
+Depends: python3, python3-gi, python3-gi-cairo, gir1.2-gtk-3.0, flatpak
+Filename: pool/main/g/griffin-welcome/griffin-welcome-deb.deb
+Size: 13598
+MD5sum: 9244c7d313afe317fef1321032985039
+SHA1: 632b5b05edc47dd7832202e5615e5be2bbff561d
+SHA256: 8731751630e6d7e456340a2305b4bf188bc76189d907516fb967fd3e9203776a
+SHA512: 6f980390f81b3d23210d8cc74d8889c349acb75c01b2b5866713ef17c796b80a160b8a4b49caa6ba03823f02c862f59329ed389020086960af5fb248b4ac7fde
+Description: Griffin OS Welcome App
+ A first-boot and application installer for Griffin OS.
+ Helps gamers, streamers, and creators set up everything quickly.
+
